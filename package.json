@@ -2,7 +2,6 @@
   "name": "@minimal/material-kit-react",
   "author": "minimals.cc",
   "licence": "MIT",
-  "homepage": "http://musaiyib.github.io/situation-room",
   "version": "1.6.0",
   "private": false,
   "scripts": {
